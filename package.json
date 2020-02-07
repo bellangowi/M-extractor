@@ -1,0 +1,23 @@
+{
+  "name": "m-extractor",
+  "version": "1.0.0",
+  "description": "Handler for pulling variables and/data from server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bellangowi/M-extractor.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Isabela Ngowi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bellangowi/M-extractor/issues"
+  },
+  "homepage": "https://github.com/bellangowi/M-extractor#readme"
+}
