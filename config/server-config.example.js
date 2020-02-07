@@ -4,6 +4,4 @@ const sourceServer = {
     password: 'password'
 };
 
-module.exports = {
-    sourceServer
-};
+module.exports = {sourceServer};

@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/bellangowi/M-extractor/issues"
   },
-  "homepage": "https://github.com/bellangowi/M-extractor#readme"
+  "homepage": "https://github.com/bellangowi/M-extractor#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "promise": "^8.0.3",
+    "request": "^2.88.0"
+  }
 }
